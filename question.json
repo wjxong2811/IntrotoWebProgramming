@@ -1,0 +1,19 @@
+[
+    {
+        "question": "How long does it take for the Moon to rotate once around its axis?",
+        "options": ["3d","9d","27d","18d"],
+        "correct": "27d"
+    },
+
+    {
+        "question": "Compared to gasoline engines, diesel engines have...?",
+        "options": ["no spark plugs","no pistons","a lower fuel efficiency","a lower compression ratio"],
+        "correct": "no spark plugs"
+    },
+
+    {
+        "question": "When did the CCP rise to power?",
+        "options": ["1849","1949","1970","1920"],
+        "correct": "1949"
+    }
+]
